@@ -77,7 +77,8 @@ Requirements:
 - Self-contained and understandable alone
 - Preserve important details, quotes, data
 - Keep markdown formatting
-- Suggest relevant tags from existing list when applicable
+- Suggest relevant tags from existing list when applicable, otherwise suggest new tags.
+- Tag names will be in the format: "tag-name" (lowercase; no spaces; use dashes to separate words).
 - Suggest a relevant project from existing list when applicable
 
 Existing tags: %s
